@@ -31,10 +31,10 @@ else:
     print("Âm")
 •	Vòng lặp (for, while):
 VD: python
-# For loop
+vòng lặp dùng for
 for i in range(5):  # 0 đến 4
     print(i)  
-# While loop
+vòng lặp dùng while
 count = 0
 while count < 5:
     print(count)
