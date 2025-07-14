@@ -18,11 +18,13 @@ Bài 2:
 - Tuple: (1, 2, 3) (không thể thay đổi).
 - Từ điển (Dictionary): {"name": "Alice", "age": 20} (cặp key-value).
 - Tập hợp (Set): {1, 2, 3} (không trùng lặp, không thứ tự).
+
 2.Các toán tử trong Python
 - Toán tử số học: +, -, *, /, // (chia nguyên), % (chia dư), ** (lũy thừa).
 - Toán tử so sánh: ==, !=, >, <, >=, <=.
 - Toán tử logic: and, or, not.
 - Toán tử gán: =, +=, -=, *=, /= (ví dụ: x += 1 tương đương x = x + 1).
+  
 3.Mệnh đề điều kiện và vòng lặp
 - Mệnh đề điều kiện (if-elif-else):
 VD: python
@@ -42,6 +44,7 @@ count = 0
 while count < 5:
     print(count)
     count += 1
+  
 4.Kiểu dữ liệu Boolean (True, False)
 - Là kết quả của phép so sánh hoặc điều kiện logic.
 VD: python
