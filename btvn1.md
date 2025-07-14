@@ -34,12 +34,12 @@ elif x == 0:
     print("Không")
 else:
     print("Âm")
-- Vòng lặp (for, while):
-  VD: python
-+ vòng lặp dùng for
+- Vòng lặp (for, while):\
+VD: python
+vòng lặp dùng for
 for i in range(5):  # 0 đến 4
     print(i)  
-+ vòng lặp dùng while
+vòng lặp dùng while
 count = 0
 while count < 5:
     print(count)
