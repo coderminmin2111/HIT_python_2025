@@ -1,8 +1,8 @@
 Bài 1: 
 Python là ngôn ngữ thông dịch vì:
-   Python không biên dịch mã nguồn thành mã máy trước khi chạy (như C/C++). Thay vào đó, trình thông dịch Python đọc và thực thi từng dòng lệnh một.
-   Khi chạy chương trình Python, mã nguồn (.py) được dịch sang bytecode (tệp .pyc) và thực thi bởi Python Virtual Machine (PVM), không phải trực tiếp thành mã máy.
-   Tuy nhiên, Python có một số yếu tố của biên dịch (như tạo bytecode), nhưng về bản chất, nó vẫn là ngôn ngữ thông dịch do cách thức thực thi từng dòng.
+- Python không biên dịch mã nguồn thành mã máy trước khi chạy (như C/C++). Thay vào đó, trình thông dịch Python đọc và thực thi từng dòng lệnh một.
+- Khi chạy chương trình Python, mã nguồn (.py) được dịch sang bytecode (tệp .pyc) và thực thi bởi Python Virtual Machine (PVM), không phải trực tiếp thành mã máy.
+- Tuy nhiên, Python có một số yếu tố của biên dịch (như tạo bytecode), nhưng về bản chất, nó vẫn là ngôn ngữ thông dịch do cách thức thực thi từng dòng.
 Bài 2:
 1.Các kiểu dữ liệu trong Python
 •	Số (Numbers):
